@@ -1,6 +1,9 @@
 
 public class RLE {
 	String text;
+	
+	public RLE(){}
+
 	public RLE(String text){
 		this.text = new String(text);
 	}
